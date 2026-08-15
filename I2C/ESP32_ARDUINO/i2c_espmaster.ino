@@ -1,6 +1,3 @@
-// <https://www.arduino.cc/en/Tutorial/MasterWriter>
-// <https://www.arduino.cc/en/Tutorial/MasterReader>
-// by Nicholas Zambetti <http://www.zambetti.com>
 
 // Demonstrates use of the Wire library
 // Writes data to an I2C/TWI sub device
